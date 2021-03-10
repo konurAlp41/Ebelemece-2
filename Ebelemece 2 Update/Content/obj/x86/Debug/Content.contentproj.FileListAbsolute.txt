@@ -1,0 +1,6 @@
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\Content\obj\x86\Debug\ResolveAssemblyReference.cache

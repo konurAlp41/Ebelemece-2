@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bomba.png</Source>
+      <Name>bomba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\bomba.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>champ.png</Source>
+      <Name>champ</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\champ.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cyan.png</Source>
+      <Name>cyan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\cyan.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>darker.png</Source>
+      <Name>darker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\darker.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>eagle.png</Source>
+      <Name>eagle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\eagle.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>golden.png</Source>
+      <Name>golden</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\golden.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>guide.png</Source>
+      <Name>guide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\guide.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>leader.png</Source>
+      <Name>leader</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\leader.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>mafia.png</Source>
+      <Name>mafia</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\mafia.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>mixer.png</Source>
+      <Name>mixer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\mixer.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>rgb.png</Source>
+      <Name>rgb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\rgb.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sc.png</Source>
+      <Name>sc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\sc.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sketch.png</Source>
+      <Name>sketch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\sketch.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>snake.png</Source>
+      <Name>snake</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\snake.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>woody.png</Source>
+      <Name>woody</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\woody.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>x.png</Source>
+      <Name>x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\x.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>zr.png</Source>
+      <Name>zr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\zr.xnb</Output>
+      <Time>2013-07-26T14:15:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gray.png</Source>
+      <Name>gray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\gray.xnb</Output>
+      <Time>2013-07-26T14:21:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>land.png</Source>
+      <Name>land</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\land.xnb</Output>
+      <Time>2013-07-26T14:26:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>dark sketch.png</Source>
+      <Name>dark sketch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\dark sketch.xnb</Output>
+      <Time>2013-07-31T21:16:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cobra.png</Source>
+      <Name>cobra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\cobra.xnb</Output>
+      <Time>2013-07-31T21:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sc 3000.png</Source>
+      <Name>sc 3000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\sc 3000.xnb</Output>
+      <Time>2013-08-10T14:39:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>wgb.png</Source>
+      <Name>wgb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\wgb.xnb</Output>
+      <Time>2013-08-10T15:05:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gangster.png</Source>
+      <Name>gangster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\gangster.xnb</Output>
+      <Time>2013-08-10T15:05:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>y.png</Source>
+      <Name>y</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\y.xnb</Output>
+      <Time>2013-08-10T15:05:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>planor.png</Source>
+      <Name>planor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\planor.xnb</Output>
+      <Time>2013-08-14T22:39:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>locust.png</Source>
+      <Name>locust</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\locust.xnb</Output>
+      <Time>2013-08-14T22:39:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>half.png</Source>
+      <Name>half</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\half.xnb</Output>
+      <Time>2013-10-26T11:04:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Hız Göstergeci.png</Source>
+      <Name>Hız Göstergeci</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\Hız Göstergeci.xnb</Output>
+      <Time>2013-11-08T22:39:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Game.png</Source>
+      <Name>Game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\Game.xnb</Output>
+      <Time>2013-11-08T22:43:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>darkzr.png</Source>
+      <Name>darkzr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\darkzr.xnb</Output>
+      <Time>2013-11-08T22:53:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-12-25T17:36:50.3066293+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Courier New.spritefont</Source>
+      <Name>Courier New</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\Courier New.xnb</Output>
+      <Time>2015-12-25T17:36:50.2996243+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-08-03T06:45:18.292922+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

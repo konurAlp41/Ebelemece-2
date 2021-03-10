@@ -1,0 +1,11 @@
+EBELEMECE 2 ÝLE GELEN YENÝLÝKLER
+01. Gizli araçlar dahil 12 yeni oyuncu eklendi
+02. Oyuncu türleri ve seviyeler eklendi ve eski araçlarýn seviyelere göre özellikleri düzenlendi
+03. Oyun içi ve menü arkaplaný eklendi
+04. Hýzlanma sistemi geliþtirildi
+05. Yapay zeka geliþtirildi
+06. Farklý oyun modlarý eklendi
+07. Veritabaný eklendi
+08. Süre sorunu düzeltildi
+09. Oyuncu seçim menüsü güzelleþtirildi
+10. Oyunun amacý deðiþtirildi 

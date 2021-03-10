@@ -1,0 +1,254 @@
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\golden.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\zr.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\cyan.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\darker.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\eagle.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\mixer.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\leader.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\woody.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\gray.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\x.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\sc.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\bomba.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\mafia.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\sketch.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\guide.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\champ.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\snake.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\rgb.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Ebelemece 2.exe
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Ebelemece 2.pdb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\obj\x86\Debug\Ebelemece 2.exe
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\obj\x86\Debug\Ebelemece 2.pdb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\land.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Ebelemece 2.exe.manifest
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Ebelemece 2.application
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\obj\x86\Debug\Ebelemece 2.exe.manifest
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\obj\x86\Debug\Ebelemece 2.application
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\dark sketch.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\cobra.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\sc 3000.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\wgb.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\y.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\gangster.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\planor.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Ebelemece 2\Ebelemece 2\bin\x86\Debug\Content\locust.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\obj\x86\Debug\Ebelemece 2.exe
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\obj\x86\Debug\Ebelemece 2.pdb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\land.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\woody.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\golden.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\gangster.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\sc.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\cobra.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\planor.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\zr.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\rgb.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\mixer.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\guide.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\sc 3000.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\gray.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\bomba.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\dark sketch.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\mafia.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\y.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\champ.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\sketch.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\locust.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\eagle.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\cyan.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\darker.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\snake.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\x.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\leader.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\wgb.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Ebelemece 2.exe.manifest
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Ebelemece 2.application
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Ebelemece 2.exe
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Ebelemece 2.pdb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\obj\x86\Debug\Ebelemece 2.exe.manifest
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\obj\x86\Debug\Ebelemece 2.application
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\half.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\Hız Göstergeci.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\Game.xnb
+C:\Users\Konur Alp\Desktop\Ebelemece 2 - Kopya\Ebelemece 2\bin\x86\Debug\Content\darkzr.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\eagle.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\rgb.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\darker.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\mafia.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\champ.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\Hız Göstergeci.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\darkzr.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\bomba.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\dark sketch.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\snake.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\golden.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\mixer.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\x.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\wgb.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\guide.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\woody.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\cyan.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\sc 3000.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\sketch.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\gray.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\y.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\leader.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\land.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\cobra.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\zr.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\sc.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\half.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\Game.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\gangster.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\planor.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Content\locust.xnb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.exe.manifest
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.application
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.exe
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.pdb
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.exe.manifest
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.application
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.exe
+C:\Users\Konur Alp\Desktop\OYUNLAR\Ebelemece 2 - Kopya\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.pdb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\leader.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\woody.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\x.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\cobra.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\mixer.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\darkzr.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\golden.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\rgb.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\locust.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\bomba.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\snake.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\sc.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\zr.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\mafia.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\sc 3000.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\dark sketch.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\wgb.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\Hız Göstergeci.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\sketch.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\eagle.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\guide.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\half.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\y.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\cyan.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\land.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\champ.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\darker.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\planor.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\Game.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\gangster.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\gray.xnb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.exe.manifest
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.application
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.exe
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.pdb
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.exe.manifest
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.application
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.exe
+C:\Users\Konur Alp\Documents\Visual Studio 2008\Projects\Hazır Oyunlar\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.pdb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.exe
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.pdb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\darker.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\darkzr.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\sketch.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\x.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\zr.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\sc 3000.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\cobra.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\bomba.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\gangster.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\cyan.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\dark sketch.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\locust.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\land.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\mafia.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\gray.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\rgb.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\snake.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\guide.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\leader.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\mixer.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\wgb.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\half.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\woody.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\golden.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\Game.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\planor.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\y.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\champ.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\Hız Göstergeci.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\eagle.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\sc.xnb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.exe.manifest
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.application
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.exe
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.pdb
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.exe.manifest
+C:\Users\user\Desktop\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.application
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\wgb.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\x.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\snake.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\dark sketch.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\mafia.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\gangster.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\woody.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\darker.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\y.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\eagle.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\golden.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\cobra.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\locust.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\darkzr.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\sketch.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\half.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\Hız Göstergeci.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\zr.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\rgb.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\bomba.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\mixer.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\sc.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\gray.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\cyan.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\Game.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\sc 3000.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\land.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\leader.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\planor.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\champ.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Content\guide.xnb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.exe.manifest
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.application
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.exe
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\bin\x86\Debug\Ebelemece 2.pdb
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.exe.manifest
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.application
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.exe
+C:\Users\user\Desktop\Oyunlar\Eski Oyunlarım (2012-2015)\12. Ebelemece 2 (Temmuz 2013)\Ebelemece 2 Update\obj\x86\Debug\Ebelemece 2.pdb
